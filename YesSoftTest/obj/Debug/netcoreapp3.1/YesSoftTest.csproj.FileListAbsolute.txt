@@ -1,0 +1,14 @@
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.exe
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.deps.json
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.runtimeconfig.json
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.runtimeconfig.dev.json
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.dll
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\YesSoftTest.pdb
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.csprojAssemblyReference.cache
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.AssemblyInfoInputs.cache
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.AssemblyInfo.cs
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.csproj.CopyComplete
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.dll
+C:\Users\AbdelHady\source\repos\YesSoftTest\YesSoftTest\obj\Debug\netcoreapp3.1\YesSoftTest.pdb
